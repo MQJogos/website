@@ -86,8 +86,9 @@ header{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background:#fff;
+  background: var(--bg);
   padding:2rem 9%;
+  border-bottom: var(--border);
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
 }
 
